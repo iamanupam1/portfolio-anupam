@@ -196,7 +196,7 @@ const BaseLayout = () => {
                     Hello ...
                   </h2>
                   <h1 className="mt-2 text-4xl font-extrabold text-[#0E9F6E] tracking-tight sm:text-5xl">
-                    I'm Anupam Dhakal !
+                    I&apos;m Anupam Dhakal !
                   </h1>
                 </div>
 
